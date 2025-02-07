@@ -18,26 +18,31 @@ The python code output was used to create 'starfield.py' and it worked with no n
 
 1. Clone this repository:
 
-    `git clone https://github.com/colinmccrae/Starfield/`
+    `git clone https://github.com/colinmccrae/starfield/`
 
 2. Navigate to the project directory:
 
     `cd Starfield`
 
-3. Run the installation script: `install.bat`. If you do this you can move straight to Step 7. If you don't want to run this batch file, you can alternatively manually swtich to a virtual environment and install the dependencies as per Steps 4-6.
-
-4. Create a virtual environment:
+3. Create a virtual environment:
 
     `python -m venv starfield-env`
 
-5. Activate the virtual environment:
+4. Activate the virtual environment:
 
     `.\starfield-env\Scripts\activate`
 
-6. Install dependencies from requirements.txt
+5. Install dependencies from requirements.txt
 
     `pip install -r requirements.txt -U`
 
-7. Run the Python script
+6. Run the Python script
 
     `python starfield.py`
+
+## Controls
+- Press **X** or close the window to exit.
+
+## Dependencies
+- Python 3.13+
+- Pygame

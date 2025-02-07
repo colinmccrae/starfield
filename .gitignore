@@ -1,0 +1,9 @@
+# Ignore the virtual environment directory
+starfield-env/
+
+# Ignore build and distribution directories (used by PyInstaller)
+build/
+dist/
+
+# Ignore PyInstaller spec file
+starfield.spec

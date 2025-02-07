@@ -11,7 +11,7 @@ The python code output was used to create 'starfield.py' and it worked with no n
 ## Installation Instructions
 
 ### Prerequisites
-- [Python 3.x and Pip](https://www.python.org/) Python package manager installed
+- [Python 3.x](https://www.python.org/) and Pip Python package manager installed
 - [Git](https://git-scm.com/) distributed version control system installed
 
 ### Installation Steps
@@ -39,10 +39,3 @@ The python code output was used to create 'starfield.py' and it worked with no n
 6. Run the Python script
 
     `python starfield.py`
-
-## Controls
-- Press **X** or close the window to exit.
-
-## Dependencies
-- Python 3.13+
-- Pygame
